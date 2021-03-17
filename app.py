@@ -1,3 +1,6 @@
+"""A very simple RESTful API example
+"""
+
 from flask import Flask
 from flask_restful import Api, Resource, reqparse, abort
 
